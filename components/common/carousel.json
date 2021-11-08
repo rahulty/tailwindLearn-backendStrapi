@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_common_carousels",
+  "info": {
+    "name": "Carousel",
+    "icon": "ad",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Image": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.image"
+    }
+  }
+}

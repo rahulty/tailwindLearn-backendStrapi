@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_common_headings",
+  "info": {
+    "name": "Heading",
+    "icon": "archway"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    }
+  }
+}
