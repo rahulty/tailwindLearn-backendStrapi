@@ -16,7 +16,7 @@
     }
   },
   "attributes": {
-    "sec1": {
+    "carousel": {
       "type": "dynamiczone",
       "components": [
         "common.carousel",

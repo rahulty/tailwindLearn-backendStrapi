@@ -7,7 +7,7 @@
   },
   "options": {},
   "attributes": {
-    "Image": {
+    "Images": {
       "type": "component",
       "repeatable": true,
       "component": "common.image"
